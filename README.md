@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-proxmox-cloudflared/main/.github/banner.png" alt="Oblivion Proxmox Cloudflare Tunnel — by Oblivion" width="100%"></a>
+  <a href="https://obliviondh.com"><img src=".github/banner.png" alt="Oblivion Proxmox Cloudflare Tunnel — by Oblivion" width="100%"></a>
 </p>
 
 <h1 align="center">Oblivion Proxmox Cloudflare Tunnel</h1>
